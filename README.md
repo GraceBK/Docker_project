@@ -23,16 +23,16 @@ MEAN-Stack-CRUD-Operations/
 > Recupere l'archive .tar [ICI](https://www.google.com) si c'est pas déjà fait
 > ensuite avec le terminal se rendre dans le même repertoire que l'archive et faire :
 ```
-docker load < projet_de_boukou.tar
+$ docker load < projet_de_boukou.tar
 ```
 > pour afficher les images chargé
 ```
-docker images
+$ docker images
 ```
 > pour RUN le projet faire :
 ```
-cd MEAN-Stack-CRUD-Operations/
-docker-compose up
+$ cd MEAN-Stack-CRUD-Operations/
+$ docker-compose up
 ```
 
 ## Lien pour afficher l'application web
