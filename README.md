@@ -13,14 +13,15 @@ Fichier a télécharger | MD5 (projet_de_boukou.tar)
 ---
 ```
 MEAN-Stack-CRUD-Operations/
-  ├── AngularApp/
-  |     ├── ....
-  |     └── Dockerfile
-  ├── NodeJS/
-  |     ├── ....
-  |     └── Dockerfile
-  ├── docker-compose.yml
-  └── README.md
+|     ├── AngularApp/
+|     |     ├── ....
+|     |     └── Dockerfile
+|     ├── NodeJS/
+|     |     ├── ....
+|     |     └── Dockerfile
+|     ├── docker-compose.yml
+|     └── README.md
+└── README.md
 ```
 
 ## Structure
