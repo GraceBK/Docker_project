@@ -20,7 +20,7 @@ MEAN-Stack-CRUD-Operations/
 ```
 
 ## Structure
-> Recupere l'archive .tar [ICI](https://www.google.com) c'est pas déjà fait
+> Recupere l'archive .tar [ICI](https://www.google.com) si c'est pas déjà fait
 > ensuite avec le terminal se rendre dans le même repertoire que l'archive et faire :
 ```
 docker load < projet_de_boukou.tar
@@ -39,7 +39,7 @@ docker-compose up
 > dans un navigateur
 ```
 http://localhost:5555/
-
+```
 
 ---
 ## Membre 
