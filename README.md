@@ -29,6 +29,13 @@ $ docker load < projet_de_boukou.tar
 ```
 $ docker images
 ```
+> resultat de docker images:
+```
+REPOSITORY                           TAG                 IMAGE ID            CREATED             SIZE
+mean-stack-crud-operations_express   latest              cb3b0746cdfa        4 hours ago         914MB
+mean-stack-crud-operations_angular   latest              77f777738eda        4 hours ago         1.36GB
+mongo                                latest              4a3b93a299a7        13 days ago         394MB
+```
 > pour RUN le projet faire :
 ```
 $ cd MEAN-Stack-CRUD-Operations/
